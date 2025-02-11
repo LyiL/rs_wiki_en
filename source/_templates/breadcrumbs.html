@@ -28,26 +28,9 @@
         {%- endfor %}
       <li class="breadcrumb-item active">{{ title }}</li>
     {%- endblock %}
+    
     {%- block breadcrumbs_aside %}
       <li class="wy-breadcrumbs-aside">
-
-        <!-- 切换中/英文 -->
-        <a
-          href="https://rs-wiki-cn.readthedocs.io/zh-cn/latest/"
-          class="sidebar-brand"
-          style="margin-bottom: 0; padding: 0; font-weight: normal; font-size: 88%"
-        >
-          中
-        </a>
-        <span style="display: inline-block; margin: 0px 6px;">|</span>
-        <a
-          href="https://rs-wiki-en.readthedocs.io/en/latest/"
-          class="sidebar-brand"
-          style="margin-bottom: 0; padding: 0; font-weight: normal; font-size: 88%; margin-right: 0.6em"
-        >
-          EN
-        </a>
-
         {%- if hasdoc(pagename) and display_vcs_links %}
           {%- if display_github %}
             {%- if check_meta and 'github_url' in meta %}
@@ -76,6 +59,27 @@
             <a href="{{ pathto('_sources/' + sourcename, true)|e }}" rel="nofollow"> {{ _('View page source') }}</a>
           {%- endif %}
         {%- endif %}
+      </li>
+    {%- endblock %}
+
+    {%- block breadcrumbs_translate %}
+      <li class="wy-breadcrumbs-translate">
+        <!-- 切换中/英文 -->
+        <a
+          href="https://rs-wiki-cn.readthedocs.io/zh-cn/latest/"
+          class="sidebar-brand"
+          style="margin-bottom: 0; padding: 0; font-weight: normal; font-size: 88%"
+        >
+          中
+        </a>
+        <span style="display: inline-block; margin: 0px 6px;">|</span>
+        <a
+          href="https://rs-wiki-en.readthedocs.io/en/latest/"
+          class="sidebar-brand"
+          style="margin-bottom: 0; padding: 0; font-weight: normal; font-size: 88%"
+        >
+          EN
+        </a>
       </li>
     {%- endblock %}
   </ul>
