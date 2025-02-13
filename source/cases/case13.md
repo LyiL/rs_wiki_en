@@ -1,1 +1,1 @@
-# 通过 ActiveCamera 的互动实现机械臂或灵巧手的抓取实例
+# Grasping with a Robotic Arm (Dual Arms) or Dexterous Hand

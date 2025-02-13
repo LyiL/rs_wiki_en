@@ -1,4 +1,4 @@
-# 工业  
-## AGV仓储搬运机器人 
-## 生产线运输机器人  
-## 生产线质量检测机器人 
+# Industry  
+## AGV Warehouse Handling Robot 
+## Production Line Transport Robot  
+## Production Line Quality Inspection Robot 

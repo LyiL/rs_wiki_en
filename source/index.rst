@@ -6,14 +6,14 @@ Welcome to RoboSense !
 
 .. toctree::
     :maxdepth: 0
-    :caption: 产品
+    :caption: Product
     :numbered:
 
     product/sensor.md
     product/development_board.md
 
 .. toctree::
-    :caption: 快速开始
+    :caption: Quick Start
     :numbered:
 
     quick_start/active_camera.md
@@ -34,7 +34,7 @@ Welcome to RoboSense !
 
 .. toctree::
     :maxdepth: 0
-    :caption: RoboSense 数据集
+    :caption: RoboSense Dataset
     :numbered:
 
     data_set/target.md
@@ -42,7 +42,7 @@ Welcome to RoboSense !
 
 .. toctree::
     :maxdepth: 0
-    :caption: 应用案例
+    :caption: Application Cases
     :numbered:
 
     cases/case1.md

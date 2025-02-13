@@ -1,4 +1,4 @@
-# 语义分割  
-通过 模型对图像进行语义分割，生成目标的分割掩码  
+# Semantic Segmentation  
+Through the model, it performs semantic segmentation on the image, generating segmentation masks of the target  
 
-[点击了解详情](http://gitlab.robosense.cn/super_sensor_sdk/ros2_sdk/perception) 
+SDK code and detailed usage link: [Click to learn more](http://gitlab.robosense.cn/super_sensor_sdk/ros2_sdk/perception) 

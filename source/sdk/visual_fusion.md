@@ -1,4 +1,4 @@
-# 点云与视觉融合  
-利用传感器自带IMU进行运动补偿，并将图像和点云相互映射，进行可视化  
+# Point Cloud and Vision Fusion  
+Utilize the sensor's built-in IMU for motion compensation, and map images and point clouds to each other for visualization  
 
-[点击了解详情](http://gitlab.robosense.cn/super_sensor_sdk/ros2_sdk/postprocess) 
+SDK code and detailed usage link: [Click to learn more](http://gitlab.robosense.cn/super_sensor_sdk/ros2_sdk/postprocess) 

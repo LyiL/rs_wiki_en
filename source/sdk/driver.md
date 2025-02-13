@@ -1,10 +1,10 @@
-# 驱动
+# Driver
 ## Driver  
-Driver 是 Robosense 机器人传感器产品的驱动。它基于 C/C++ 语言开发，为用户提供了易用的 C/C++语言风格的接口。通过该 Driver，用户可以快速地连接 Robosense 机器人传感器并接收点云数据。  
-详情及安装和使用方法见
+Driver is the driver for RoboSense robotic sensor products. It is developed based on C/C++ language, providing users with underlying driver functions, responsible for configuring, initializing, calibrating the device, and implementing hardware device detection and status management, ensuring efficient operation of the sensor. It also provides developer interfaces for the device, supporting sensor configuration, data collection, device control, and other functions, facilitating developers to quickly integrate and use the device.  
+Details, installation and usage methods see: [Click to learn more](http://10.10.0.20/super_sensor_sdk/ros2_sdk/drive_api/-/blob/dev_A1.2/README.md)   
 
 ## ROS Driver  
 
 ## ROS2 Driver  
-ROS2 driver是一个全新的 ROS2 包，专门用于连接 Robosense 生产的机器人传感器产品。该驱动程序可以在安装了 ROS2 环境（indigo,kinetic,melodic）的 ubuntu14.04/16.04/18.04，Windows，Mac 等操作系统下运行。  
-详情及安装和使用方法见  
+ROS2 driver is a brand new ROS2 package, specifically designed to connect RoboSense robotic sensor products. This driver can run on operating systems with ROS2 environment (humble, jazzy) installed, such as ubuntu18.04/20.04/22.04, Windows, Mac, ARM Debian12, etc.  
+Details, installation and usage methods see: [Click to learn more](http://10.10.0.20/super_sensor_sdk/ros2_sdk/sdk_infra/-/blob/main/modules/ros_metas/README.md)   

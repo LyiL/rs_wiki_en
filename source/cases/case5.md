@@ -1,3 +1,3 @@
-# 安防监控  
-## 安防巡逻机器人  
-## 工厂监控机器人  
+# Security Monitoring  
+## Security Patrol Robot  
+## Factory Monitoring Robot  

@@ -1,22 +1,22 @@
 # Active Camera  
 
-AC Viewer 是一款专为 Active Camera 设计的软件，可用于实时显示连接至计算机的所有 Active Camera 的数据（包括点云、图像等）。通过 AC Viewer，用户可轻松查看、记录并储存传感器数据，以便后期使用。  
+AC Viewer is a software designed specifically for Active Camera, which can be used to display real-time data (including point clouds, images, etc.) from all Active Cameras connected to the computer. Through AC Viewer, users can easily view, record, and store sensor data for later use.  
 
-**硬件准备：** Active Camera x 1，电源线，数据线，PC x 1  
+**Hardware preparation：** Active Camera x 1, power cable, data cable, PC x 1
 
-**PC配置：**  
-|    | 最低配置  | 推荐配置 |
+**PC configuration：**  
+|    | Minimum configuration  | Recommended configuration |
 | ------ | ------ | ------ |
-| CPU | Intel I5 4核以上 | Intel 11500及以上；Mac M2以上 |
-| GPU | 集成显卡 | RTX3060及等同算力或以上 |
-| 内存 | 8GB | 16GB以上 |
+| CPU | Intel I5 4-core or above | Intel 11500 or above <br> Mac M2 or above |
+| GPU | Integrated graphics | RTX3060 or equivalent computing power or above |
+| Memory | 8GB | 16GB or above |
 
-**物理连接：**
+**Physical connection：**
 ![图片alt](../image/output.png)  
 
-**软件准备：**  
+**Software preparation：**  
 <!-- <a href="https://www.livoxtech.com/3296f540ecf5458a8829e01cf429798e/downloads/Livox%20%E7%82%B9%E4%BA%91%E7%89%B9%E6%80%A7.pdf" target="_blank">文件</a> -->
 
 <!-- [下载文件](https://www.livoxtech.com/3296f540ecf5458a8829e01cf429798e/downloads/Livox%20%E7%82%B9%E4%BA%91%E7%89%B9%E6%80%A7.pdf)   -->
 
-[下载压缩包](https://terra-1-g.djicdn.com/65c028cd298f4669a7f0e40e50ba1131/Download/update/Livox%20Viewer%200.8.0.7z)  
+<!-- [download](https://terra-1-g.djicdn.com/65c028cd298f4669a7f0e40e50ba1131/Download/update/Livox%20Viewer%200.8.0.7z)   -->
