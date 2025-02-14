@@ -1,5 +1,7 @@
 # Sensors
-## Active Camera
+## Active Camera  
+![Airy](../image/active_camera.PNG)  
+
 
 ## Airy
 ![Airy](../image/Airy.png)
