@@ -15,8 +15,4 @@ AC Viewer is a software designed specifically for Active Camera, which can be us
 ![图片alt](../image/output.png)  
 
 **Software preparation：**  
-<!-- <a href="https://www.livoxtech.com/3296f540ecf5458a8829e01cf429798e/downloads/Livox%20%E7%82%B9%E4%BA%91%E7%89%B9%E6%80%A7.pdf" target="_blank">文件</a> -->
 
-<!-- [下载文件](https://www.livoxtech.com/3296f540ecf5458a8829e01cf429798e/downloads/Livox%20%E7%82%B9%E4%BA%91%E7%89%B9%E6%80%A7.pdf)   -->
-
-<!-- [download](https://terra-1-g.djicdn.com/65c028cd298f4669a7f0e40e50ba1131/Download/update/Livox%20Viewer%200.8.0.7z)   -->
